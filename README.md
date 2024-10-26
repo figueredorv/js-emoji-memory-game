@@ -12,7 +12,7 @@ Bem-vindo ao ** Jogo da memória criado com Html, Css e Javascript**! Este proje
 
 | Menu Principal  | Jogabilidade       |
 | --------------- | ------------------ |
-| ![Menu](src/images/captura.jpg) | ![Gameplay](src/images/captura.jpg) |
+| ![Menu](src/images/captura1.jpg) | ![Gameplay](src/images/captura2.jpg) |
 
 ---
 
