@@ -32,7 +32,7 @@ Bem-vindo ao ** Jogo da memória criado com Html, Css e Javascript**! Este proje
 2. Abra o arquivo `index.html` em seu navegador.
 3. Utilize seu mouse para interagir tentando acertar a sequencia das cartas.
 4. Divirta-se e acerte o máximo de cartas que conseguir!
-5. Ou acesse o deploy para jogar online: (Em breve)
+5. Ou acesse o deploy para jogar online: https://js-emoji-memory-game.vercel.app/
 
 ## 🤝 Contribuições
 
